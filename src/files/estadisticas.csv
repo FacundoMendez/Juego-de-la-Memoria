@@ -1,0 +1,741 @@
+Tiempo, N_Partida, Cant_Palabras, Evento, User, Genero, Edad, Estado, Palabra, Nivel
+
+1624654523,Partida n,6.0,Inicio_Partida,Day,Femenino,27,-,-,Facil
+1624654524,Partida n,6.0,Primera_Ficha,Day,Femenino,27,Primera,Poni,Facil
+1624654525,Partida n,6.0,Conjunto_Incorrecto,Day,Femenino,27,Error,Poni,Facil
+1624654525,Partida n,6.0,Primera_Ficha,Day,Femenino,27,Primera,Ternero,Facil
+1624654527,Partida n,6.0,Conjunto_Incorrecto,Day,Femenino,27,Error,Ternero,Facil
+1624654527,Partida n,6.0,Primera_Ficha,Day,Femenino,27,Primera,Bufalo,Facil
+1624654529,Partida n,6.0,Conjunto_Incorrecto,Day,Femenino,27,Error,Bufalo,Facil
+1624654529,Partida n,6.0,Primera_Ficha,Day,Femenino,27,Primera,Ternero,Facil
+1624654531,Partida n,6.0,Conjunto_Incorrecto,Day,Femenino,27,Error,Ternero,Facil
+1624654531,Partida n,6.0,Primera_Ficha,Day,Femenino,27,Primera,Yaguarete,Facil
+1624654533,Partida n,6.0,Conjunto_Incorrecto,Day,Femenino,27,Error,Yaguarete,Facil
+1624654533,Partida n,6.0,Primera_Ficha,Day,Femenino,27,Primera,Ternero,Facil
+1624654535,Partida n,6.0,Conjunto_Incorrecto,Day,Femenino,27,Error,Ternero,Facil
+1624654535,Partida n,6.0,Primera_Ficha,Day,Femenino,27,Primera,Yaguarete,Facil
+1624654537,Partida n,6.0,Fin_Partida,Day,Femenino,27,Cancelada,-,Facil
+1624654544,Partida n,12.0,Inicio_Partida,Day,Femenino,27,-,-,Facil
+1624654545,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Chimpance,Facil
+1624654546,Partida n,12.0,Conjunto_Incorrecto,Day,Femenino,27,Error,Chimpance,Facil
+1624654546,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Tapir,Facil
+1624654548,Partida n,12.0,Conjunto_Incorrecto,Day,Femenino,27,Error,Tapir,Facil
+1624654548,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Medusa,Facil
+1624654550,Partida n,12.0,Conjunto_Incorrecto,Day,Femenino,27,Error,Medusa,Facil
+1624654550,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Nutria,Facil
+1624654551,Partida n,12.0,Conjunto_Correcto,Day,Femenino,27,Correcto,Nutria,Facil
+1624654551,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Gato,Facil
+1624654553,Partida n,12.0,Conjunto_Incorrecto,Day,Femenino,27,Error,Gato,Facil
+1624654554,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Tortuga,Facil
+1624654555,Partida n,12.0,Conjunto_Correcto,Day,Femenino,27,Correcto,Tortuga,Facil
+1624654555,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Pulpo,Facil
+1624654557,Partida n,12.0,Conjunto_Incorrecto,Day,Femenino,27,Error,Pulpo,Facil
+1624654557,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Rana,Facil
+1624654559,Partida n,12.0,Conjunto_Incorrecto,Day,Femenino,27,Error,Rana,Facil
+1624654560,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Medusa,Facil
+1624654562,Partida n,12.0,Conjunto_Incorrecto,Day,Femenino,27,Error,Medusa,Facil
+1624654563,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Gato,Facil
+1624654565,Partida n,12.0,Conjunto_Incorrecto,Day,Femenino,27,Error,Gato,Facil
+1624654566,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Chimpance,Facil
+1624654566,Partida n,12.0,Conjunto_Correcto,Day,Femenino,27,Correcto,Chimpance,Facil
+1624654567,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Rana,Facil
+1624654570,Partida n,12.0,Conjunto_Incorrecto,Day,Femenino,27,Error,Rana,Facil
+1624654570,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Gato,Facil
+1624654572,Partida n,12.0,Conjunto_Incorrecto,Day,Femenino,27,Error,Gato,Facil
+1624654572,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Gato,Facil
+1624654573,Partida n,12.0,Conjunto_Correcto,Day,Femenino,27,Correcto,Gato,Facil
+1624654573,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Antilope,Facil
+1624654575,Partida n,12.0,Conjunto_Incorrecto,Day,Femenino,27,Error,Antilope,Facil
+1624654575,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Caballo_de_Mar,Facil
+1624654576,Partida n,12.0,Conjunto_Correcto,Day,Femenino,27,Correcto,Caballo_de_Mar,Facil
+1624654576,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Cangrejo,Facil
+1624654579,Partida n,12.0,Conjunto_Incorrecto,Day,Femenino,27,Error,Cangrejo,Facil
+1624654579,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Rana,Facil
+1624654581,Partida n,12.0,Conjunto_Incorrecto,Day,Femenino,27,Error,Rana,Facil
+1624654582,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Pulpo,Facil
+1624654582,Partida n,12.0,Conjunto_Correcto,Day,Femenino,27,Correcto,Pulpo,Facil
+1624654584,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Medusa,Facil
+1624654585,Partida n,12.0,Conjunto_Correcto,Day,Femenino,27,Correcto,Medusa,Facil
+1624654585,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Bufalo,Facil
+1624654588,Partida n,12.0,Conjunto_Incorrecto,Day,Femenino,27,Error,Bufalo,Facil
+1624654588,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Antilope,Facil
+1624654590,Partida n,12.0,Conjunto_Incorrecto,Day,Femenino,27,Error,Antilope,Facil
+1624654591,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Cangrejo,Facil
+1624654591,Partida n,12.0,Conjunto_Correcto,Day,Femenino,27,Correcto,Cangrejo,Facil
+1624654593,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Bufalo,Facil
+1624654595,Partida n,12.0,Conjunto_Incorrecto,Day,Femenino,27,Error,Bufalo,Facil
+1624654595,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Bufalo,Facil
+1624654596,Partida n,12.0,Conjunto_Correcto,Day,Femenino,27,Correcto,Bufalo,Facil
+1624654596,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Tapir,Facil
+1624654598,Partida n,12.0,Conjunto_Correcto,Day,Femenino,27,Correcto,Tapir,Facil
+1624654599,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Rana,Facil
+1624654599,Partida n,12.0,Conjunto_Correcto,Day,Femenino,27,Correcto,Rana,Facil
+1624654600,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Antilope,Facil
+1624654600,Partida n,12.0,Conjunto_Correcto,Day,Femenino,27,Correcto,Antilope,Facil
+1624654602,Partida n,12.0,Fin_Partida,Day,Femenino,27,Ganada,Antilope,Facil
+1624654614,Partida n,12.0,Inicio_Partida,Day,Femenino,27,-,-,Facil
+1624654695,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Liebre,Facil
+1624654697,Partida n,12.0,Conjunto_Incorrecto,Day,Femenino,27,Error,Liebre,Facil
+1624654713,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Salamandra,Facil
+1624654714,Partida n,12.0,Conjunto_Correcto,Day,Femenino,27,Correcto,Salamandra,Facil
+1624654715,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Murcielago,Facil
+1624654716,Partida n,12.0,Conjunto_Incorrecto,Day,Femenino,27,Error,Murcielago,Facil
+1624654716,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Luciernaga,Facil
+1624654717,Partida n,12.0,Conjunto_Correcto,Day,Femenino,27,Correcto,Luciernaga,Facil
+1624654718,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Polilla,Facil
+1624654720,Partida n,12.0,Conjunto_Incorrecto,Day,Femenino,27,Error,Polilla,Facil
+1624654720,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Mantis,Facil
+1624654721,Partida n,12.0,Conjunto_Incorrecto,Day,Femenino,27,Error,Mantis,Facil
+1624654721,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Chimpance,Facil
+1624654723,Partida n,12.0,Conjunto_Incorrecto,Day,Femenino,27,Error,Chimpance,Facil
+1624654723,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Mapache,Facil
+1624654725,Partida n,12.0,Conjunto_Incorrecto,Day,Femenino,27,Error,Mapache,Facil
+1624654726,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Polilla,Facil
+1624654728,Partida n,12.0,Conjunto_Incorrecto,Day,Femenino,27,Error,Polilla,Facil
+1624654728,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Murcielago,Facil
+1624654729,Partida n,12.0,Conjunto_Correcto,Day,Femenino,27,Correcto,Murcielago,Facil
+1624654730,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Mantis,Facil
+1624654732,Partida n,12.0,Conjunto_Incorrecto,Day,Femenino,27,Error,Mantis,Facil
+1624654733,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Mantis,Facil
+1624654734,Partida n,12.0,Conjunto_Correcto,Day,Femenino,27,Correcto,Mantis,Facil
+1624654736,Partida n,12.0,Fin_Partida,Day,Femenino,27,Sin_Tiempo,Mantis,Facil
+1624656592,Partida n,12.0,Inicio_Partida,Day,Femenino,27,-,-,Facil
+1624656592,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Escarabajo,Facil
+1624656593,Partida n,12.0,Conjunto_Correcto,Day,Femenino,27,Correcto,Escarabajo,Facil
+1624656594,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Arenque,Facil
+1624656595,Partida n,12.0,Conjunto_Incorrecto,Day,Femenino,27,Error,Arenque,Facil
+1624656596,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Lince,Facil
+1624656597,Partida n,12.0,Conjunto_Incorrecto,Day,Femenino,27,Error,Lince,Facil
+1624656597,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Girafa,Facil
+1624656598,Partida n,12.0,Conjunto_Correcto,Day,Femenino,27,Correcto,Girafa,Facil
+1624656599,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Anchoa,Facil
+1624656601,Partida n,12.0,Conjunto_Incorrecto,Day,Femenino,27,Error,Anchoa,Facil
+1624656601,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Lince,Facil
+1624656601,Partida n,12.0,Conjunto_Correcto,Day,Femenino,27,Correcto,Lince,Facil
+1624656602,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Pajaro_Carpintero,Facil
+1624656603,Partida n,12.0,Conjunto_Incorrecto,Day,Femenino,27,Error,Pajaro_Carpintero,Facil
+1624656603,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Langosta,Facil
+1624656605,Partida n,12.0,Conjunto_Incorrecto,Day,Femenino,27,Error,Langosta,Facil
+1624656605,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Gusano,Facil
+1624656607,Partida n,12.0,Conjunto_Incorrecto,Day,Femenino,27,Error,Gusano,Facil
+1624656607,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Gusano,Facil
+1624656610,Partida n,12.0,Conjunto_Incorrecto,Day,Femenino,27,Error,Gusano,Facil
+1624656610,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Anchoa,Facil
+1624656612,Partida n,12.0,Conjunto_Incorrecto,Day,Femenino,27,Error,Anchoa,Facil
+1624656612,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Arenque,Facil
+1624656613,Partida n,12.0,Conjunto_Correcto,Day,Femenino,27,Correcto,Arenque,Facil
+1624656614,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Pajaro_Carpintero,Facil
+1624656616,Partida n,12.0,Conjunto_Incorrecto,Day,Femenino,27,Error,Pajaro_Carpintero,Facil
+1624656617,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Anchoa,Facil
+1624656619,Partida n,12.0,Conjunto_Incorrecto,Day,Femenino,27,Error,Anchoa,Facil
+1624656619,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Atun,Facil
+1624656619,Partida n,12.0,Conjunto_Correcto,Day,Femenino,27,Correcto,Atun,Facil
+1624656620,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Langosta,Facil
+1624656622,Partida n,12.0,Conjunto_Incorrecto,Day,Femenino,27,Error,Langosta,Facil
+1624656622,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Gusano,Facil
+1624656624,Partida n,12.0,Conjunto_Incorrecto,Day,Femenino,27,Error,Gusano,Facil
+1624656624,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Avispa,Facil
+1624656626,Partida n,12.0,Conjunto_Incorrecto,Day,Femenino,27,Error,Avispa,Facil
+1624656626,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Camaleon,Facil
+1624656627,Partida n,12.0,Conjunto_Correcto,Day,Femenino,27,Correcto,Camaleon,Facil
+1624656628,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Pajaro_Carpintero,Facil
+1624656629,Partida n,12.0,Conjunto_Correcto,Day,Femenino,27,Correcto,Pajaro_Carpintero,Facil
+1624656630,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Gusano,Facil
+1624656632,Partida n,12.0,Conjunto_Incorrecto,Day,Femenino,27,Error,Gusano,Facil
+1624656632,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Avispa,Facil
+1624656634,Partida n,12.0,Conjunto_Incorrecto,Day,Femenino,27,Error,Avispa,Facil
+1624656634,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Gusano,Facil
+1624656634,Partida n,12.0,Conjunto_Correcto,Day,Femenino,27,Correcto,Gusano,Facil
+1624656635,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Avispa,Facil
+1624656637,Partida n,12.0,Conjunto_Incorrecto,Day,Femenino,27,Error,Avispa,Facil
+1624656637,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Avispa,Facil
+1624656638,Partida n,12.0,Conjunto_Correcto,Day,Femenino,27,Correcto,Avispa,Facil
+1624656638,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Venado,Facil
+1624656640,Partida n,12.0,Conjunto_Incorrecto,Day,Femenino,27,Error,Venado,Facil
+1624656641,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Langosta,Facil
+1624656643,Partida n,12.0,Conjunto_Incorrecto,Day,Femenino,27,Error,Langosta,Facil
+1624656643,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Anchoa,Facil
+1624656644,Partida n,12.0,Conjunto_Correcto,Day,Femenino,27,Correcto,Anchoa,Facil
+1624656644,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Venado,Facil
+1624656645,Partida n,12.0,Conjunto_Correcto,Day,Femenino,27,Correcto,Venado,Facil
+1624656646,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Langosta,Facil
+1624656646,Partida n,12.0,Conjunto_Correcto,Day,Femenino,27,Correcto,Langosta,Facil
+1624656647,Partida n,12.0,Fin_Partida,Day,Femenino,27,Ganada,Langosta,Facil
+1624657406,Partida n,12.0,Inicio_Partida,Hilario,Masculino,18,-,-,Facil
+1624657407,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Cucaracha,Facil
+1624657408,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Cucaracha,Facil
+1624657408,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Gusano,Facil
+1624657408,Partida n,12.0,Conjunto_Correcto,Hilario,Masculino,18,Correcto,Gusano,Facil
+1624657409,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Cucaracha,Facil
+1624657410,Partida n,12.0,Conjunto_Correcto,Hilario,Masculino,18,Correcto,Cucaracha,Facil
+1624657411,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Bagre,Facil
+1624657412,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Bagre,Facil
+1624657412,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Antilope,Facil
+1624657414,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Antilope,Facil
+1624657414,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Arenque,Facil
+1624657416,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Arenque,Facil
+1624657417,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Medusa,Facil
+1624657420,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Medusa,Facil
+1624657420,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Bagre,Facil
+1624657420,Partida n,12.0,Conjunto_Correcto,Hilario,Masculino,18,Correcto,Bagre,Facil
+1624657421,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Mariquita,Facil
+1624657423,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Mariquita,Facil
+1624657423,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Antilope,Facil
+1624657424,Partida n,12.0,Conjunto_Correcto,Hilario,Masculino,18,Correcto,Antilope,Facil
+1624657424,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Mariquita,Facil
+1624657425,Partida n,12.0,Conjunto_Correcto,Hilario,Masculino,18,Correcto,Mariquita,Facil
+1624657426,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Murcielago,Facil
+1624657430,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Murcielago,Facil
+1624657430,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Pez_Globo,Facil
+1624657432,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Pez_Globo,Facil
+1624657433,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Camaleon,Facil
+1624657434,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Camaleon,Facil
+1624657435,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Cocodrilo,Facil
+1624657437,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Cocodrilo,Facil
+1624657437,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Arenque,Facil
+1624657438,Partida n,12.0,Conjunto_Correcto,Hilario,Masculino,18,Correcto,Arenque,Facil
+1624657438,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Pez_Globo,Facil
+1624657439,Partida n,12.0,Conjunto_Correcto,Hilario,Masculino,18,Correcto,Pez_Globo,Facil
+1624657440,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Murcielago,Facil
+1624657441,Partida n,12.0,Conjunto_Correcto,Hilario,Masculino,18,Correcto,Murcielago,Facil
+1624657442,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Cocodrilo,Facil
+1624657444,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Cocodrilo,Facil
+1624657445,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Camaleon,Facil
+1624657447,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Camaleon,Facil
+1624657447,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Camaleon,Facil
+1624657448,Partida n,12.0,Conjunto_Correcto,Hilario,Masculino,18,Correcto,Camaleon,Facil
+1624657448,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Mantarraya,Facil
+1624657449,Partida n,12.0,Conjunto_Correcto,Hilario,Masculino,18,Correcto,Mantarraya,Facil
+1624657450,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Cocodrilo,Facil
+1624657451,Partida n,12.0,Conjunto_Correcto,Hilario,Masculino,18,Correcto,Cocodrilo,Facil
+1624657451,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Medusa,Facil
+1624657452,Partida n,12.0,Conjunto_Correcto,Hilario,Masculino,18,Correcto,Medusa,Facil
+1624657453,Partida n,12.0,Fin_Partida,Hilario,Masculino,18,Ganada,Medusa,Facil
+1624657481,Partida n,12.0,Inicio_Partida,Maria,Otro,44,-,-,Facil
+1624657482,Partida n,12.0,Primera_Ficha,Maria,Otro,44,Primera,Rana.png,Facil
+1624657483,Partida n,12.0,Conjunto_Incorrecto,Maria,Otro,44,Error,Rana.png,Facil
+1624657484,Partida n,12.0,Primera_Ficha,Maria,Otro,44,Primera,Libelula.png,Facil
+1624657486,Partida n,12.0,Conjunto_Incorrecto,Maria,Otro,44,Error,Libelula.png,Facil
+1624657486,Partida n,12.0,Primera_Ficha,Maria,Otro,44,Primera,Rana.png,Facil
+1624657487,Partida n,12.0,Conjunto_Correcto,Maria,Otro,44,Correcto,Rana.png,Facil
+1624657488,Partida n,12.0,Primera_Ficha,Maria,Otro,44,Primera,Ocelote.png,Facil
+1624657489,Partida n,12.0,Conjunto_Incorrecto,Maria,Otro,44,Error,Ocelote.png,Facil
+1624657489,Partida n,12.0,Primera_Ficha,Maria,Otro,44,Primera,Cucaracha.png,Facil
+1624657491,Partida n,12.0,Conjunto_Incorrecto,Maria,Otro,44,Error,Cucaracha.png,Facil
+1624657491,Partida n,12.0,Primera_Ficha,Maria,Otro,44,Primera,Calamar.png,Facil
+1624657492,Partida n,12.0,Conjunto_Incorrecto,Maria,Otro,44,Error,Calamar.png,Facil
+1624657492,Partida n,12.0,Primera_Ficha,Maria,Otro,44,Primera,Arenque.png,Facil
+1624657494,Partida n,12.0,Conjunto_Incorrecto,Maria,Otro,44,Error,Arenque.png,Facil
+1624657494,Partida n,12.0,Primera_Ficha,Maria,Otro,44,Primera,Cucaracha.png,Facil
+1624657497,Partida n,12.0,Conjunto_Incorrecto,Maria,Otro,44,Error,Cucaracha.png,Facil
+1624657497,Partida n,12.0,Primera_Ficha,Maria,Otro,44,Primera,Libelula.png,Facil
+1624657499,Partida n,12.0,Conjunto_Incorrecto,Maria,Otro,44,Error,Libelula.png,Facil
+1624657499,Partida n,12.0,Primera_Ficha,Maria,Otro,44,Primera,Ornitorrinco.png,Facil
+1624657501,Partida n,12.0,Conjunto_Incorrecto,Maria,Otro,44,Error,Ornitorrinco.png,Facil
+1624657501,Partida n,12.0,Primera_Ficha,Maria,Otro,44,Primera,Arenque.png,Facil
+1624657502,Partida n,12.0,Conjunto_Incorrecto,Maria,Otro,44,Error,Arenque.png,Facil
+1624657502,Partida n,12.0,Primera_Ficha,Maria,Otro,44,Primera,Sapo.png,Facil
+1624657503,Partida n,12.0,Conjunto_Correcto,Maria,Otro,44,Correcto,Sapo.png,Facil
+1624657503,Partida n,12.0,Primera_Ficha,Maria,Otro,44,Primera,Avispa.png,Facil
+1624657504,Partida n,12.0,Conjunto_Correcto,Maria,Otro,44,Correcto,Avispa.png,Facil
+1624657505,Partida n,12.0,Primera_Ficha,Maria,Otro,44,Primera,Ornitorrinco.png,Facil
+1624657506,Partida n,12.0,Conjunto_Correcto,Maria,Otro,44,Correcto,Ornitorrinco.png,Facil
+1624657507,Partida n,12.0,Primera_Ficha,Maria,Otro,44,Primera,Luciernaga.png,Facil
+1624657508,Partida n,12.0,Conjunto_Correcto,Maria,Otro,44,Correcto,Luciernaga.png,Facil
+1624657509,Partida n,12.0,Primera_Ficha,Maria,Otro,44,Primera,Murcielago.png,Facil
+1624657511,Partida n,12.0,Conjunto_Incorrecto,Maria,Otro,44,Error,Murcielago.png,Facil
+1624657511,Partida n,12.0,Primera_Ficha,Maria,Otro,44,Primera,Calamar.png,Facil
+1624657512,Partida n,12.0,Conjunto_Incorrecto,Maria,Otro,44,Error,Calamar.png,Facil
+1624657512,Partida n,12.0,Primera_Ficha,Maria,Otro,44,Primera,Murcielago.png,Facil
+1624657513,Partida n,12.0,Conjunto_Correcto,Maria,Otro,44,Correcto,Murcielago.png,Facil
+1624657513,Partida n,12.0,Primera_Ficha,Maria,Otro,44,Primera,Libelula.png,Facil
+1624657515,Partida n,12.0,Conjunto_Incorrecto,Maria,Otro,44,Error,Libelula.png,Facil
+1624657515,Partida n,12.0,Primera_Ficha,Maria,Otro,44,Primera,Cucaracha.png,Facil
+1624657517,Partida n,12.0,Conjunto_Incorrecto,Maria,Otro,44,Error,Cucaracha.png,Facil
+1624657518,Partida n,12.0,Primera_Ficha,Maria,Otro,44,Primera,Calamar.png,Facil
+1624657520,Partida n,12.0,Conjunto_Incorrecto,Maria,Otro,44,Error,Calamar.png,Facil
+1624657520,Partida n,12.0,Primera_Ficha,Maria,Otro,44,Primera,Libelula.png,Facil
+1624657522,Partida n,12.0,Conjunto_Incorrecto,Maria,Otro,44,Error,Libelula.png,Facil
+1624657522,Partida n,12.0,Primera_Ficha,Maria,Otro,44,Primera,Ocelote.png,Facil
+1624657523,Partida n,12.0,Conjunto_Correcto,Maria,Otro,44,Correcto,Ocelote.png,Facil
+1624657524,Partida n,12.0,Primera_Ficha,Maria,Otro,44,Primera,Lobo.png,Facil
+1624657526,Partida n,12.0,Conjunto_Incorrecto,Maria,Otro,44,Error,Lobo.png,Facil
+1624657526,Partida n,12.0,Primera_Ficha,Maria,Otro,44,Primera,Calamar.png,Facil
+1624657528,Partida n,12.0,Conjunto_Correcto,Maria,Otro,44,Correcto,Calamar.png,Facil
+1624657529,Partida n,12.0,Primera_Ficha,Maria,Otro,44,Primera,Cucaracha.png,Facil
+1624657532,Partida n,12.0,Conjunto_Incorrecto,Maria,Otro,44,Error,Cucaracha.png,Facil
+1624657532,Partida n,12.0,Primera_Ficha,Maria,Otro,44,Primera,Libelula.png,Facil
+1624657533,Partida n,12.0,Conjunto_Incorrecto,Maria,Otro,44,Error,Libelula.png,Facil
+1624657534,Partida n,12.0,Primera_Ficha,Maria,Otro,44,Primera,Libelula.png,Facil
+1624657535,Partida n,12.0,Conjunto_Correcto,Maria,Otro,44,Correcto,Libelula.png,Facil
+1624657536,Partida n,12.0,Primera_Ficha,Maria,Otro,44,Primera,Arenque.png,Facil
+1624657538,Partida n,12.0,Conjunto_Incorrecto,Maria,Otro,44,Error,Arenque.png,Facil
+1624657538,Partida n,12.0,Primera_Ficha,Maria,Otro,44,Primera,Cucaracha.png,Facil
+1624657540,Partida n,12.0,Conjunto_Incorrecto,Maria,Otro,44,Error,Cucaracha.png,Facil
+1624657540,Partida n,12.0,Primera_Ficha,Maria,Otro,44,Primera,Lobo.png,Facil
+1624657542,Partida n,12.0,Conjunto_Incorrecto,Maria,Otro,44,Error,Lobo.png,Facil
+1624657543,Partida n,12.0,Primera_Ficha,Maria,Otro,44,Primera,Arenque.png,Facil
+1624657545,Partida n,12.0,Conjunto_Incorrecto,Maria,Otro,44,Error,Arenque.png,Facil
+1624657545,Partida n,12.0,Primera_Ficha,Maria,Otro,44,Primera,Arenque.png,Facil
+1624657547,Partida n,12.0,Conjunto_Correcto,Maria,Otro,44,Correcto,Arenque.png,Facil
+1624657548,Partida n,12.0,Primera_Ficha,Maria,Otro,44,Primera,Lobo.png,Facil
+1624657549,Partida n,12.0,Conjunto_Incorrecto,Maria,Otro,44,Error,Lobo.png,Facil
+1624657550,Partida n,12.0,Primera_Ficha,Maria,Otro,44,Primera,Lobo.png,Facil
+1624657550,Partida n,12.0,Conjunto_Correcto,Maria,Otro,44,Correcto,Lobo.png,Facil
+1624657551,Partida n,12.0,Primera_Ficha,Maria,Otro,44,Primera,Cucaracha.png,Facil
+1624657552,Partida n,12.0,Conjunto_Correcto,Maria,Otro,44,Correcto,Cucaracha.png,Facil
+1624657553,Partida n,12.0,Fin_Partida,Maria,Otro,44,Ganada,Cucaracha.png,Facil
+1624678334,Partida n,12.0,Inicio_Partida,Hilario,Masculino,18,-,-,Facil
+1624678335,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Bulgaria ,Facil
+1624678337,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Bulgaria ,Facil
+1624678338,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Nigeria ,Facil
+1624678338,Partida n,12.0,Conjunto_Correcto,Hilario,Masculino,18,Correcto,Nigeria ,Facil
+1624678340,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Croatia ,Facil
+1624678342,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Croatia ,Facil
+1624678342,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Romania ,Facil
+1624678344,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Romania ,Facil
+1624678344,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Germany ,Facil
+1624678345,Partida n,12.0,Conjunto_Correcto,Hilario,Masculino,18,Correcto,Germany ,Facil
+1624678346,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Swaziland ,Facil
+1624678348,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Swaziland ,Facil
+1624678348,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Niger ,Facil
+1624678350,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Niger ,Facil
+1624678350,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,South Africa ,Facil
+1624678352,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,South Africa ,Facil
+1624678352,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Bulgaria ,Facil
+1624678353,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Bulgaria ,Facil
+1624678354,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Ukraine ,Facil
+1624678355,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Ukraine ,Facil
+1624678356,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Ukraine ,Facil
+1624678358,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Ukraine ,Facil
+1624678358,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Niger ,Facil
+1624678359,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Niger ,Facil
+1624678359,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Cameroon ,Facil
+1624678361,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Cameroon ,Facil
+1624678361,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Bulgaria ,Facil
+1624678363,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Bulgaria ,Facil
+1624678363,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,South Africa ,Facil
+1624678365,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,South Africa ,Facil
+1624678365,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Cameroon ,Facil
+1624678366,Partida n,12.0,Conjunto_Correcto,Hilario,Masculino,18,Correcto,Cameroon ,Facil
+1624678367,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Croatia ,Facil
+1624678368,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Croatia ,Facil
+1624678368,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Niger ,Facil
+1624678370,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Niger ,Facil
+1624678370,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Swaziland ,Facil
+1624678372,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Swaziland ,Facil
+1624678372,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Romania ,Facil
+1624678374,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Romania ,Facil
+1624678375,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,South Africa ,Facil
+1624678377,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,South Africa ,Facil
+1624678378,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Ukraine ,Facil
+1624678379,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Ukraine ,Facil
+1624678380,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Romania ,Facil
+1624678381,Partida n,12.0,Conjunto_Correcto,Hilario,Masculino,18,Correcto,Romania ,Facil
+1624678381,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Croatia ,Facil
+1624678383,Partida n,12.0,Conjunto_Correcto,Hilario,Masculino,18,Correcto,Croatia ,Facil
+1624678383,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Ukraine ,Facil
+1624678384,Partida n,12.0,Conjunto_Correcto,Hilario,Masculino,18,Correcto,Ukraine ,Facil
+1624678385,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,South Africa ,Facil
+1624678386,Partida n,12.0,Conjunto_Correcto,Hilario,Masculino,18,Correcto,South Africa ,Facil
+1624678387,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Swaziland ,Facil
+1624678388,Partida n,12.0,Conjunto_Correcto,Hilario,Masculino,18,Correcto,Swaziland ,Facil
+1624678389,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Hungary ,Facil
+1624678391,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Hungary ,Facil
+1624678391,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Bulgaria ,Facil
+1624678393,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Bulgaria ,Facil
+1624678404,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Hungary ,Facil
+1624678406,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Hungary ,Facil
+1624678406,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Bulgaria ,Facil
+1624678408,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Bulgaria ,Facil
+1624678408,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Russia ,Facil
+1624678410,Partida n,12.0,Conjunto_Correcto,Hilario,Masculino,18,Correcto,Russia ,Facil
+1624678410,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Bulgaria ,Facil
+1624678411,Partida n,12.0,Conjunto_Correcto,Hilario,Masculino,18,Correcto,Bulgaria ,Facil
+1624678412,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Hungary ,Facil
+1624678414,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Hungary ,Facil
+1624678414,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Hungary ,Facil
+1624678415,Partida n,12.0,Conjunto_Correcto,Hilario,Masculino,18,Correcto,Hungary ,Facil
+1624678415,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Niger ,Facil
+1624678416,Partida n,12.0,Conjunto_Correcto,Hilario,Masculino,18,Correcto,Niger ,Facil
+1624678421,Partida n,12.0,Fin_Partida,Hilario,Masculino,18,Ganada,Niger ,Facil
+1624678624,Partida n,24.0,Inicio_Partida,Hilario,Masculino,18,-,-,Medio
+1624678625,Partida n,24.0,Fin_Partida,Hilario,Masculino,18,Cancelada,-,Medio
+1624678631,Partida n,24.0,Inicio_Partida,Hilario,Masculino,18,-,-,Medio
+1624678634,Partida n,24.0,Fin_Partida,Hilario,Masculino,18,Cancelada,-,Medio
+1624678656,Partida n,36.0,Inicio_Partida,Hilario,Masculino,18,-,-,Dificil
+1624678664,Partida n,36.0,Fin_Partida,Hilario,Masculino,18,Cancelada,-,Dificil
+1624678674,Partida n,12.0,Inicio_Partida,Hilario,Masculino,18,-,-,Facil
+1624678674,Partida n,12.0,Fin_Partida,Hilario,Masculino,18,Cancelada,-,Facil
+1624748128,Partida n,12.0,Inicio_Partida,Hilario,Masculino,18,-,-,Facil
+1624748128,Partida n,12.0,Fin_Partida,Hilario,Masculino,18,Cancelada,-,Facil
+1624748164,Partida n,12.0,Inicio_Partida,Hilario,Masculino,18,-,-,Facil
+1624748165,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Ternero,Facil
+1624748166,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Ternero,Facil
+1624748168,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Ternero,Facil
+1624748169,Partida n,12.0,Fin_Partida,Hilario,Masculino,18,Cancelada,-,Facil
+1624918314,Partida n,12.0,Inicio_Partida,Hilario,Masculino,18,-,-,Facil
+1624918314,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Chancho,Facil
+1624918317,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Chancho,Facil
+1624918317,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Ñandu,Facil
+1624918319,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Ñandu,Facil
+1624918320,Partida n,12.0,Fin_Partida,Hilario,Masculino,18,Cancelada,-,Facil
+1624918350,Partida n,12.0,Inicio_Partida,Hilario,Masculino,18,-,-,Facil
+1624918351,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Camaleon,Facil
+1624918353,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Camaleon,Facil
+1624918353,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Cocodrilo,Facil
+1624918355,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Cocodrilo,Facil
+1624918356,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Flamenco,Facil
+1624918358,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Flamenco,Facil
+1624918358,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Gorrion,Facil
+1624918360,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Gorrion,Facil
+1624918361,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Gorrion,Facil
+1624918363,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Gorrion,Facil
+1624918363,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Cocodrilo,Facil
+1624918366,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Cocodrilo,Facil
+1624918367,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Mosquito,Facil
+1624918369,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Mosquito,Facil
+1624918369,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Bagre,Facil
+1624918371,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Bagre,Facil
+1624918371,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Bagre,Facil
+1624918372,Partida n,12.0,Conjunto_Correcto,Hilario,Masculino,18,Correcto,Bagre,Facil
+1624918373,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Avispon,Facil
+1624918375,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Avispon,Facil
+1624918376,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Mosquito,Facil
+1624918378,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Mosquito,Facil
+1624918378,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Camaleon,Facil
+1624918380,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Camaleon,Facil
+1624918381,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Mosquito,Facil
+1624918382,Partida n,12.0,Conjunto_Correcto,Hilario,Masculino,18,Correcto,Mosquito,Facil
+1624918383,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Camaleon,Facil
+1624918386,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Camaleon,Facil
+1624918387,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Camaleon,Facil
+1624918388,Partida n,12.0,Conjunto_Correcto,Hilario,Masculino,18,Correcto,Camaleon,Facil
+1624918388,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Mantis,Facil
+1624918390,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Mantis,Facil
+1624918391,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Trucha,Facil
+1624918393,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Trucha,Facil
+1624918395,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Tortuga,Facil
+1624918398,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Tortuga,Facil
+1624918398,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Avispon,Facil
+1624918401,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Avispon,Facil
+1624918401,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Flamenco,Facil
+1624918403,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Flamenco,Facil
+1624918403,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Trucha,Facil
+1624918404,Partida n,12.0,Conjunto_Correcto,Hilario,Masculino,18,Correcto,Trucha,Facil
+1624918405,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Cocodrilo,Facil
+1624918407,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Cocodrilo,Facil
+1624918409,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Gorrion,Facil
+1624918411,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Gorrion,Facil
+1624918415,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Iguana,Facil
+1624918420,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Iguana,Facil
+1624918421,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Avispon,Facil
+1624918423,Partida n,12.0,Conjunto_Correcto,Hilario,Masculino,18,Correcto,Avispon,Facil
+1624918424,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Cocodrilo,Facil
+1624918426,Partida n,12.0,Conjunto_Correcto,Hilario,Masculino,18,Correcto,Cocodrilo,Facil
+1624918428,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Iguana,Facil
+1624918431,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Iguana,Facil
+1624918431,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Gorrion,Facil
+1624918435,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Gorrion,Facil
+1624918436,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Mantis,Facil
+1624918437,Partida n,12.0,Conjunto_Correcto,Hilario,Masculino,18,Correcto,Mantis,Facil
+1624918437,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Iguana,Facil
+1624918439,Partida n,12.0,Conjunto_Correcto,Hilario,Masculino,18,Correcto,Iguana,Facil
+1624918440,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Tortuga,Facil
+1624918443,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Tortuga,Facil
+1624918443,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Gorrion,Facil
+1624918446,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Gorrion,Facil
+1624918446,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Tiburon,Facil
+1624918447,Partida n,12.0,Conjunto_Correcto,Hilario,Masculino,18,Correcto,Tiburon,Facil
+1624918447,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Tortuga,Facil
+1624918449,Partida n,12.0,Conjunto_Correcto,Hilario,Masculino,18,Correcto,Tortuga,Facil
+1624918450,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Flamenco,Facil
+1624918451,Partida n,12.0,Conjunto_Correcto,Hilario,Masculino,18,Correcto,Flamenco,Facil
+1624918452,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Gorrion,Facil
+1624918453,Partida n,12.0,Conjunto_Correcto,Hilario,Masculino,18,Correcto,Gorrion,Facil
+1624918457,Partida n,12.0,Fin_Partida,Hilario,Masculino,18,Ganada,Gorrion,Facil
+1624918528,Partida n,12.0,Inicio_Partida,Hilario,Masculino,18,-,-,Facil
+1624918528,Partida n,12.0,Fin_Partida,Hilario,Masculino,18,Cancelada,-,Facil
+1624918569,Partida n,12.0,Inicio_Partida,Hilario,Masculino,18,-,-,Facil
+1624918569,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Pulpo,Facil
+1624918571,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Pulpo,Facil
+1624918571,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Caiman,Facil
+1624918572,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Caiman,Facil
+1624918573,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Libelula,Facil
+1624918574,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Libelula,Facil
+1624918574,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Libelula,Facil
+1624918575,Partida n,12.0,Conjunto_Correcto,Hilario,Masculino,18,Correcto,Libelula,Facil
+1624918575,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Atun,Facil
+1624918577,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Atun,Facil
+1624918577,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Gaviota,Facil
+1624918578,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Gaviota,Facil
+1624918579,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Iguana,Facil
+1624918579,Partida n,12.0,Conjunto_Correcto,Hilario,Masculino,18,Correcto,Iguana,Facil
+1624918580,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Gaviota,Facil
+1624918581,Partida n,12.0,Conjunto_Correcto,Hilario,Masculino,18,Correcto,Gaviota,Facil
+1624918582,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Halcon,Facil
+1624918583,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Halcon,Facil
+1624918583,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Flamenco,Facil
+1624918584,Partida n,12.0,Conjunto_Correcto,Hilario,Masculino,18,Correcto,Flamenco,Facil
+1624918585,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Gusano,Facil
+1624918586,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Gusano,Facil
+1624918587,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Pato,Facil
+1624918587,Partida n,12.0,Conjunto_Correcto,Hilario,Masculino,18,Correcto,Pato,Facil
+1624918588,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Atun,Facil
+1624918589,Partida n,12.0,Conjunto_Correcto,Hilario,Masculino,18,Correcto,Atun,Facil
+1624918590,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Kiwi,Facil
+1624918591,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Kiwi,Facil
+1624918591,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Kiwi,Facil
+1624918593,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Kiwi,Facil
+1624918593,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Kiwi,Facil
+1624918594,Partida n,12.0,Conjunto_Correcto,Hilario,Masculino,18,Correcto,Kiwi,Facil
+1624918594,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Gusano,Facil
+1624918596,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Gusano,Facil
+1624918597,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Gusano,Facil
+1624918597,Partida n,12.0,Conjunto_Correcto,Hilario,Masculino,18,Correcto,Gusano,Facil
+1624918598,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Aguila_Gris,Facil
+1624918599,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Aguila_Gris,Facil
+1624918600,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Caiman,Facil
+1624918601,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Caiman,Facil
+1624918602,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Aguila_Gris,Facil
+1624918602,Partida n,12.0,Conjunto_Correcto,Hilario,Masculino,18,Correcto,Aguila_Gris,Facil
+1624918603,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Halcon,Facil
+1624918604,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Halcon,Facil
+1624918604,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Caiman,Facil
+1624918605,Partida n,12.0,Conjunto_Correcto,Hilario,Masculino,18,Correcto,Caiman,Facil
+1624918606,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Pulpo,Facil
+1624918606,Partida n,12.0,Conjunto_Correcto,Hilario,Masculino,18,Correcto,Pulpo,Facil
+1624918607,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Halcon,Facil
+1624918608,Partida n,12.0,Conjunto_Correcto,Hilario,Masculino,18,Correcto,Halcon,Facil
+1624918618,Partida n,12.0,Fin_Partida,Hilario,Masculino,18,Ganada,Halcon,Facil
+1624918650,Partida n,12.0,Inicio_Partida,Hilario,Masculino,18,-,-,Facil
+1624918651,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Chancho,Facil
+1624918653,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Chancho,Facil
+1624918653,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Cocodrilo,Facil
+1624918655,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Cocodrilo,Facil
+1624918655,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Babosa,Facil
+1624918655,Partida n,12.0,Conjunto_Correcto,Hilario,Masculino,18,Correcto,Babosa,Facil
+1624918656,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Pavo,Facil
+1624918657,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Pavo,Facil
+1624918658,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Kiwi,Facil
+1624918659,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Kiwi,Facil
+1624918659,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Sapo,Facil
+1624918661,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Sapo,Facil
+1624918661,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Pavo,Facil
+1624918663,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Pavo,Facil
+1624918663,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Chancho,Facil
+1624918664,Partida n,12.0,Conjunto_Correcto,Hilario,Masculino,18,Correcto,Chancho,Facil
+1624918666,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Delfin,Facil
+1624918668,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Delfin,Facil
+1624918668,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Hormiga,Facil
+1624918670,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Hormiga,Facil
+1624918670,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Pavo,Facil
+1624918672,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Pavo,Facil
+1624918672,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Kiwi,Facil
+1624918674,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Kiwi,Facil
+1624918674,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Caballa,Facil
+1624918677,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Caballa,Facil
+1624918677,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Sapo,Facil
+1624918679,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Sapo,Facil
+1624918679,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Aguila_Gris,Facil
+1624918681,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Aguila_Gris,Facil
+1624918682,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Aguila_Gris,Facil
+1624918683,Partida n,12.0,Conjunto_Correcto,Hilario,Masculino,18,Correcto,Aguila_Gris,Facil
+1624918683,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Caballa,Facil
+1624918686,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Caballa,Facil
+1624918687,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Cocodrilo,Facil
+1624918688,Partida n,12.0,Conjunto_Correcto,Hilario,Masculino,18,Correcto,Cocodrilo,Facil
+1624918689,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Pavo,Facil
+1624918691,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Pavo,Facil
+1624918691,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Delfin,Facil
+1624918695,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Delfin,Facil
+1624918695,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Cisne,Facil
+1624918697,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Cisne,Facil
+1624918697,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Tucan,Facil
+1624918701,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Tucan,Facil
+1624918701,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Caballa,Facil
+1624918703,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Caballa,Facil
+1624918703,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Caballa,Facil
+1624918706,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Caballa,Facil
+1624918706,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Hormiga,Facil
+1624918708,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Hormiga,Facil
+1624918709,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Sapo,Facil
+1624918717,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Sapo,Facil
+1624918717,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Pavo,Facil
+1624918718,Partida n,12.0,Conjunto_Correcto,Hilario,Masculino,18,Correcto,Pavo,Facil
+1624918719,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Kiwi,Facil
+1624918721,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Kiwi,Facil
+1624918722,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Sapo,Facil
+1624918724,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Sapo,Facil
+1624918725,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Delfin,Facil
+1624918725,Partida n,12.0,Conjunto_Correcto,Hilario,Masculino,18,Correcto,Delfin,Facil
+1624918726,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Hormiga,Facil
+1624918728,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Hormiga,Facil
+1624918728,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Caballa,Facil
+1624918729,Partida n,12.0,Conjunto_Correcto,Hilario,Masculino,18,Correcto,Caballa,Facil
+1624918730,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Tucan,Facil
+1624918732,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Tucan,Facil
+1624918732,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Tucan,Facil
+1624918733,Partida n,12.0,Conjunto_Correcto,Hilario,Masculino,18,Correcto,Tucan,Facil
+1624918733,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Cisne,Facil
+1624918735,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Cisne,Facil
+1624918735,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Hormiga,Facil
+1624918736,Partida n,12.0,Conjunto_Correcto,Hilario,Masculino,18,Correcto,Hormiga,Facil
+1624918737,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Sapo,Facil
+1624918738,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Sapo,Facil
+1624918739,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Cisne,Facil
+1624918741,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Cisne,Facil
+1624918741,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Sapo,Facil
+1624918744,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Sapo,Facil
+1624918744,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Sapo,Facil
+1624918745,Partida n,12.0,Conjunto_Correcto,Hilario,Masculino,18,Correcto,Sapo,Facil
+1624918746,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Kiwi,Facil
+1624918746,Partida n,12.0,Conjunto_Correcto,Hilario,Masculino,18,Correcto,Kiwi,Facil
+1624918747,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Cisne,Facil
+1624918747,Partida n,12.0,Conjunto_Correcto,Hilario,Masculino,18,Correcto,Cisne,Facil
+1624918750,Partida n,12.0,Fin_Partida,Hilario,Masculino,18,Ganada,Cisne,Facil
+1625006032,Partida n,12.0,Inicio_Partida,Day,Femenino,27,-,-,Facil
+1625006033,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Bufalo,Facil
+1625006034,Partida n,12.0,Conjunto_Incorrecto,Day,Femenino,27,Error,Bufalo,Facil
+1625006034,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Camaleon,Facil
+1625006035,Partida n,12.0,Conjunto_Correcto,Day,Femenino,27,Correcto,Camaleon,Facil
+1625006036,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Avestruz,Facil
+1625006037,Partida n,12.0,Conjunto_Incorrecto,Day,Femenino,27,Error,Avestruz,Facil
+1625006037,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Pollo,Facil
+1625006039,Partida n,12.0,Conjunto_Incorrecto,Day,Femenino,27,Error,Pollo,Facil
+1625006039,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Leon,Facil
+1625006041,Partida n,12.0,Conjunto_Incorrecto,Day,Femenino,27,Error,Leon,Facil
+1625006042,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Buho,Facil
+1625006043,Partida n,12.0,Conjunto_Correcto,Day,Femenino,27,Correcto,Buho,Facil
+1625006043,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Ocelote,Facil
+1625006045,Partida n,12.0,Conjunto_Incorrecto,Day,Femenino,27,Error,Ocelote,Facil
+1625006045,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Avestruz,Facil
+1625006048,Partida n,12.0,Conjunto_Incorrecto,Day,Femenino,27,Error,Avestruz,Facil
+1625006048,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Paloma,Facil
+1625006051,Partida n,12.0,Conjunto_Incorrecto,Day,Femenino,27,Error,Paloma,Facil
+1625006051,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Boa_Constrictora,Facil
+1625006052,Partida n,12.0,Conjunto_Correcto,Day,Femenino,27,Correcto,Boa_Constrictora,Facil
+1625006053,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Ocelote,Facil
+1625006055,Partida n,12.0,Conjunto_Incorrecto,Day,Femenino,27,Error,Ocelote,Facil
+1625006055,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Bufalo,Facil
+1625006057,Partida n,12.0,Conjunto_Incorrecto,Day,Femenino,27,Error,Bufalo,Facil
+1625006057,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Ocelote,Facil
+1625006058,Partida n,12.0,Conjunto_Correcto,Day,Femenino,27,Correcto,Ocelote,Facil
+1625006058,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Avestruz,Facil
+1625006060,Partida n,12.0,Conjunto_Incorrecto,Day,Femenino,27,Error,Avestruz,Facil
+1625006060,Partida n,12.0,Primera_Ficha,Day,Femenino,27,Primera,Leon,Facil
+1625006062,Partida n,12.0,Fin_Partida,Day,Femenino,27,Cancelada,-,Facil
+1625019508,Partida n,24.0,Inicio_Partida,f,Otro,1,-,-,Medio
+1625019508,Partida n,24.0,Primera_Ficha,f,Otro,1,Primera,Lobo,Medio
+1625019509,Partida n,24.0,Conjunto_Incorrecto,f,Otro,1,Error,Lobo,Medio
+1625019509,Partida n,24.0,Primera_Ficha,f,Otro,1,Primera,Antilope,Medio
+1625019510,Partida n,24.0,Fin_Partida,f,Otro,1,Cancelada,-,Medio
+1625019857,Partida n,12.0,Inicio_Partida,Hilario,Masculino,18,-,-,Facil
+1625019858,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Mono_Titi,Facil
+1625019859,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Mono_Titi,Facil
+1625019860,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Gorrion,Facil
+1625019861,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Gorrion,Facil
+1625019862,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Buho,Facil
+1625019863,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Buho,Facil
+1625019863,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Guepardo,Facil
+1625019864,Partida n,12.0,Conjunto_Correcto,Hilario,Masculino,18,Correcto,Guepardo,Facil
+1625019865,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Tucan,Facil
+1625019866,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Tucan,Facil
+1625019866,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Gusano,Facil
+1625019868,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Gusano,Facil
+1625019868,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Boa_Constrictora,Facil
+1625019870,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Boa_Constrictora,Facil
+1625019870,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Oso_Hormiguero,Facil
+1625019872,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Oso_Hormiguero,Facil
+1625019873,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Buho,Facil
+1625019874,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Buho,Facil
+1625019875,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Gusano,Facil
+1625019876,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Gusano,Facil
+1625019876,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Mono_Titi,Facil
+1625019878,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Mono_Titi,Facil
+1625019878,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Gusano,Facil
+1625019880,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Gusano,Facil
+1625019881,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Perico,Facil
+1625019882,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Perico,Facil
+1625019882,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Boa_Constrictora,Facil
+1625019884,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Boa_Constrictora,Facil
+1625019884,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Oso_Hormiguero,Facil
+1625019887,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Oso_Hormiguero,Facil
+1625019887,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Gusano,Facil
+1625019889,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Gusano,Facil
+1625019889,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Gusano,Facil
+1625019890,Partida n,12.0,Conjunto_Correcto,Hilario,Masculino,18,Correcto,Gusano,Facil
+1625019891,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Perico,Facil
+1625019892,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Perico,Facil
+1625019893,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Buho,Facil
+1625019894,Partida n,12.0,Conjunto_Correcto,Hilario,Masculino,18,Correcto,Buho,Facil
+1625019894,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Tucan,Facil
+1625019896,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Tucan,Facil
+1625019896,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Perico,Facil
+1625019896,Partida n,12.0,Conjunto_Correcto,Hilario,Masculino,18,Correcto,Perico,Facil
+1625019897,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Venado,Facil
+1625019899,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Venado,Facil
+1625019899,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Boa_Constrictora,Facil
+1625019900,Partida n,12.0,Conjunto_Correcto,Hilario,Masculino,18,Correcto,Boa_Constrictora,Facil
+1625019901,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Oso_Hormiguero,Facil
+1625019903,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Oso_Hormiguero,Facil
+1625019903,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Mono_Titi,Facil
+1625019905,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Mono_Titi,Facil
+1625019905,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Jabali,Facil
+1625019907,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Jabali,Facil
+1625019907,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Mono_Titi,Facil
+1625019908,Partida n,12.0,Conjunto_Correcto,Hilario,Masculino,18,Correcto,Mono_Titi,Facil
+1625019908,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Tucan,Facil
+1625019909,Partida n,12.0,Conjunto_Correcto,Hilario,Masculino,18,Correcto,Tucan,Facil
+1625019910,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Venado,Facil
+1625019911,Partida n,12.0,Conjunto_Correcto,Hilario,Masculino,18,Correcto,Venado,Facil
+1625019912,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Mosca,Facil
+1625019914,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Mosca,Facil
+1625019914,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Gorrion,Facil
+1625019915,Partida n,12.0,Conjunto_Correcto,Hilario,Masculino,18,Correcto,Gorrion,Facil
+1625019916,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Oso_Hormiguero,Facil
+1625019917,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Oso_Hormiguero,Facil
+1625019922,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Mosca,Facil
+1625019923,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Mosca,Facil
+1625019924,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Oso_Hormiguero,Facil
+1625019924,Partida n,12.0,Conjunto_Correcto,Hilario,Masculino,18,Correcto,Oso_Hormiguero,Facil
+1625019925,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Jabali,Facil
+1625019926,Partida n,12.0,Conjunto_Correcto,Hilario,Masculino,18,Correcto,Jabali,Facil
+1625019926,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Mosca,Facil
+1625019927,Partida n,12.0,Conjunto_Correcto,Hilario,Masculino,18,Correcto,Mosca,Facil
+1625019928,Partida n,12.0,Fin_Partida,Hilario,Masculino,18,Ganada,Mosca,Facil
+1625019982,Partida n,12.0,Inicio_Partida,Hilario,Masculino,18,-,-,Facil
+1625019982,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Mosquito.png,Facil
+1625019984,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Mosquito.png,Facil
+1625019984,Partida n,12.0,Primera_Ficha,Hilario,Masculino,18,Primera,Pajaro_Carpintero.png,Facil
+1625019986,Partida n,12.0,Conjunto_Incorrecto,Hilario,Masculino,18,Error,Pajaro_Carpintero.png,Facil
+1625019987,Partida n,12.0,Fin_Partida,Hilario,Masculino,18,Cancelada,-,Facil
+1625021419,Partida n,36.0,Inicio_Partida,f,Otro,1,-,-,Dificil
+1625021420,Partida n,36.0,Fin_Partida,f,Otro,1,Cancelada,-,Dificil
+1625021480,Partida n,36.0,Inicio_Partida,f,Otro,1,-,-,Dificil
+1625021480,Partida n,36.0,Fin_Partida,f,Otro,1,Cancelada,-,Dificil
+1625115937,Partida n,36.0,Inicio_Partida,f,Otro,1,-,-,Dificil
+1625115937,Partida n,36.0,Primera_Ficha,f,Otro,1,Primera,Luciernaga,Dificil
+1625115939,Partida n,36.0,Conjunto_Incorrecto,f,Otro,1,Error,Luciernaga,Dificil
+1625115939,Partida n,36.0,Primera_Ficha,f,Otro,1,Primera,Ornitorrinco,Dificil
+1625115940,Partida n,36.0,Conjunto_Incorrecto,f,Otro,1,Error,Ornitorrinco,Dificil
+1625115940,Partida n,36.0,Primera_Ficha,f,Otro,1,Primera,Mosquito,Dificil
+1625115941,Partida n,36.0,Fin_Partida,f,Otro,1,Cancelada,-,Dificil
+1625115943,Partida n,36.0,Inicio_Partida,f,Otro,1,-,-,Dificil
+1625115943,Partida n,36.0,Fin_Partida,f,Otro,1,Cancelada,-,Dificil
+1625115950,Partida n,24.0,Inicio_Partida,f,Otro,1,-,-,Medio
+1625115951,Partida n,24.0,Primera_Ficha,f,Otro,1,Primera,Mosca,Medio
+1625115952,Partida n,24.0,Conjunto_Incorrecto,f,Otro,1,Error,Mosca,Medio
+1625115952,Partida n,24.0,Primera_Ficha,f,Otro,1,Primera,Ornitorrinco,Medio
+1625115953,Partida n,24.0,Fin_Partida,f,Otro,1,Cancelada,-,Medio
+1625115959,Partida n,12.0,Inicio_Partida,f,Otro,1,-,-,Facil
+1625115959,Partida n,12.0,Primera_Ficha,f,Otro,1,Primera,Faisan,Facil
+1625115961,Partida n,12.0,Conjunto_Incorrecto,f,Otro,1,Error,Faisan,Facil
+1625115961,Partida n,12.0,Primera_Ficha,f,Otro,1,Primera,Cucaracha,Facil
+1625115962,Partida n,12.0,Conjunto_Incorrecto,f,Otro,1,Error,Cucaracha,Facil
+1625115962,Partida n,12.0,Primera_Ficha,f,Otro,1,Primera,Buitre,Facil
+1625115963,Partida n,12.0,Conjunto_Incorrecto,f,Otro,1,Error,Buitre,Facil
+1625115963,Partida n,12.0,Fin_Partida,f,Otro,1,Cancelada,-,Facil
+1626122700,Partida n,12.0,Inicio_Partida,f,Otro,1,-,-,Facil
+1626122700,Partida n,12.0,Primera_Ficha,f,Otro,1,Primera,Rana,Facil
+1626122701,Partida n,12.0,Fin_Partida,f,Otro,1,Cancelada,-,Facil
